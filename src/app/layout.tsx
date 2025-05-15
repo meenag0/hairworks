@@ -6,8 +6,8 @@ import '@/styles/globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Elegant Hair Salon',
-  description: 'Your premier destination for hair styling and beauty services',
+  title: 'Skinlogica',
+  description: 'Your tag line', //add in tage line
 }
 
 export default function RootLayout({
